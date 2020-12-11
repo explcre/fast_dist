@@ -1,5 +1,3 @@
-#KITECH README
-
 # 2. EfficientNet README
 
 ### **To reproduce the examples**
